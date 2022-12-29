@@ -1,0 +1,3 @@
+Hello, World!
+This is an input textfile.
+System.out.println("Hello, World!");
