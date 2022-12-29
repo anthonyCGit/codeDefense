@@ -9,7 +9,7 @@
 
 **Notes:** I primarly worked on the Java version, however, I also reviewed and edited the Python version.
 
-
+**Instructions:**
 The program requires the user create a txt file as an input file, and it should have contents in the file.
 
 To Run Java Version in cmd with input/.java file in same directory:
