@@ -5,4 +5,6 @@
 
 **Team:** Leader, Designer, Programmer in team of 3
 
+**Languages:** Java, Python
+
 **Notes:** I primarly worked on the Java version, however, I also reviewed and edited the Python version.
