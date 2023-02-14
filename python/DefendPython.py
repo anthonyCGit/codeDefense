@@ -1,5 +1,5 @@
 """
-Author: Anthony, Team Member 1, Team Member 2
+Author: Anthony, Roman, Tien
 Date: 8-8-22
 Description: A program that safely gathers user input and produces password, output, and log files.
 """
